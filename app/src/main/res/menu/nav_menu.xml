@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/menu_item1"
+        android:icon="@drawable/baseline_home_24"
+        android:title="Home" />
+    <item
+        android:id="@+id/menu_item2"
+        android:icon="@drawable/baseline_stairs_24"
+        android:title="Klasemen" />
+    <item
+        android:id="@+id/menu_item3"
+        android:icon="@drawable/baseline_sports_soccer_24"
+        android:title="Top Score"/>
+</menu>
